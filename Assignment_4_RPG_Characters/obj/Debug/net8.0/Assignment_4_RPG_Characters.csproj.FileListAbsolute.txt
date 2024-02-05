@@ -1,0 +1,14 @@
+C:\Users\kris_\RiderProjects\Assignment_4_RPG_Characters\Assignment_4_RPG_Characters\obj\Debug\net8.0\Assignment_4_RPG_Characters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kris_\RiderProjects\Assignment_4_RPG_Characters\Assignment_4_RPG_Characters\obj\Debug\net8.0\Assignment_4_RPG_Characters.AssemblyInfoInputs.cache
+C:\Users\kris_\RiderProjects\Assignment_4_RPG_Characters\Assignment_4_RPG_Characters\obj\Debug\net8.0\Assignment_4_RPG_Characters.AssemblyInfo.cs
+C:\Users\kris_\RiderProjects\Assignment_4_RPG_Characters\Assignment_4_RPG_Characters\obj\Debug\net8.0\Assignment_4_RPG_Characters.csproj.CoreCompileInputs.cache
+C:\Users\kris_\RiderProjects\Assignment_4_RPG_Characters\Assignment_4_RPG_Characters\bin\Debug\net8.0\Assignment_4_RPG_Characters.exe
+C:\Users\kris_\RiderProjects\Assignment_4_RPG_Characters\Assignment_4_RPG_Characters\bin\Debug\net8.0\Assignment_4_RPG_Characters.deps.json
+C:\Users\kris_\RiderProjects\Assignment_4_RPG_Characters\Assignment_4_RPG_Characters\bin\Debug\net8.0\Assignment_4_RPG_Characters.runtimeconfig.json
+C:\Users\kris_\RiderProjects\Assignment_4_RPG_Characters\Assignment_4_RPG_Characters\bin\Debug\net8.0\Assignment_4_RPG_Characters.dll
+C:\Users\kris_\RiderProjects\Assignment_4_RPG_Characters\Assignment_4_RPG_Characters\bin\Debug\net8.0\Assignment_4_RPG_Characters.pdb
+C:\Users\kris_\RiderProjects\Assignment_4_RPG_Characters\Assignment_4_RPG_Characters\obj\Debug\net8.0\Assignment_4_RPG_Characters.dll
+C:\Users\kris_\RiderProjects\Assignment_4_RPG_Characters\Assignment_4_RPG_Characters\obj\Debug\net8.0\refint\Assignment_4_RPG_Characters.dll
+C:\Users\kris_\RiderProjects\Assignment_4_RPG_Characters\Assignment_4_RPG_Characters\obj\Debug\net8.0\Assignment_4_RPG_Characters.pdb
+C:\Users\kris_\RiderProjects\Assignment_4_RPG_Characters\Assignment_4_RPG_Characters\obj\Debug\net8.0\Assignment_4_RPG_Characters.genruntimeconfig.cache
+C:\Users\kris_\RiderProjects\Assignment_4_RPG_Characters\Assignment_4_RPG_Characters\obj\Debug\net8.0\ref\Assignment_4_RPG_Characters.dll
